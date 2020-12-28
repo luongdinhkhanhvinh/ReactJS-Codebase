@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[93],{697:function(e,i,r){"use strict";r.r(i),r.d(i,"loginFormSchema",(function(){return a}));var s=r(1436),a=s.object().shape({email:s.string().email("Invalid email address").required("Email is required"),password:s.string().required("Password is required")})}}]);

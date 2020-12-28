@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[120],{1454:function(s,o,n){"use strict";n.r(o),o.default=n.p+"assets/fonts/logo.svg"}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[102],{691:function(n,i,t){"use strict";t.r(i),t.d(i,"getProfile",(function(){return r}));var o=t(84),e=t(209);function r(){return e.axiosClient.get(o.ApiEndpoint.USER_PROFILE)}}}]);

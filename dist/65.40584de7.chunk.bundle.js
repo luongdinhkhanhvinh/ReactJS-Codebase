@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{694:function(a,o,r){"use strict";r.r(o);var e=r(284),b=r(280);o.default=Object(e.a)((function(a){return Object(b.a)({root:{borderRadius:a.variables.borderRadius,boxShadow:a.variables.boxShadowCard}})}))}}]);

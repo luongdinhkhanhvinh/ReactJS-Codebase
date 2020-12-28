@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[116],{1450:function(s,n,o){"use strict";o.r(n),n.default=o.p+"assets/fonts/OpenSans-SemiBold.woff2"}}]);

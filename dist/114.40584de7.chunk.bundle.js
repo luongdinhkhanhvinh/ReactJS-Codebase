@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[114],{1448:function(s,n,e){"use strict";e.r(n),n.default=e.p+"assets/fonts/OpenSans-Regular.woff2"}}]);
